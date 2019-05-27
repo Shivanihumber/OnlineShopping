@@ -1,0 +1,31 @@
+body {
+  font-family: Georgia;
+  /* Set line height to be 1.5 times larger than default */  
+  line-height: 1.5em;  
+  background-color: #f5f785;
+  text-align: center;
+}
+
+header {
+  padding:10px;
+  font-size: 34px;
+  margin-top: 50px;
+}
+
+
+button{
+  font-family: Georgia;
+  width: 250px;
+  height: 50px;
+  margin: 20px;
+  border: 5px;
+  font-size: 16px;
+  background-color: #92f760;
+  border-radius: 8px;
+  border: 2px solid #4CAF50;
+
+}
+
+form{
+  margin: 2%;
+}
